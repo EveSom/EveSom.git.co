@@ -5,15 +5,34 @@
 }
 body{
     background-color: rgb(32, 65, 109);
-    /* text-align: center; */
     color: azure;
+}
+header{
+    width: 80%;
+    margin: 0px auto;
+    background-color: rgb(100, 164, 236);
+    -webkit-box-shadow: 2px 4px 8px 1px rgba(76,117,219,1);
+    -moz-box-shadow: 2px 4px 8px 1px rgba(76,117,219,1);
+    box-shadow: 2px 4px 8px 1px rgba(76,117,219,1);
+}
+.cabecera{
+    padding: 15px 0px;
+    margin-left: 50px;
+    display: inline-block;
+    
+}
+.small{
+    display: inline-block;
+    font-size: small;
+    margin-left: 50px;
 }
 .contenido{
     /* display: ; */
     width: 80%;
-    margin: 50px auto;
+    margin: 0px auto;
     border: white 1px solid;
     padding: 20px;
+    text-align: center;
 }
 .titulo{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
