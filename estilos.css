@@ -11,7 +11,17 @@ body{
 .contenido{
     /* display: ; */
     width: 80%;
-    margin: 0px auto;
+    margin: 50px auto;
+    border: white 1px solid;
+    padding: 20px;
+}
+.titulo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+    margin: 20px;
+}
+.parrafo{
+    margin-bottom: 50px;
 }
 
 
