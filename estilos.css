@@ -14,12 +14,21 @@ header{
     -webkit-box-shadow: 2px 4px 8px 1px rgba(76,117,219,1);
     -moz-box-shadow: 2px 4px 8px 1px rgba(76,117,219,1);
     box-shadow: 2px 4px 8px 1px rgba(76,117,219,1);
+    font-size: 18px;
+    font-weight: bold;
+    color: #3b44af;
 }
 .cabecera{
     padding: 15px 0px;
     margin-left: 50px;
-    display: inline-block;
-    
+    display: inline-block;    
+}
+.logo{
+    width: 50px;
+    height: 50px;
+    border-radius: 35px;
+    vertical-align: middle;
+    margin: 10px 0px 10px 25px;
 }
 .small{
     display: inline-block;
@@ -27,12 +36,15 @@ header{
     margin-left: 50px;
 }
 .contenido{
-    /* display: ; */
+    background-color: rgb(238, 238, 238);
+    color: rgb(43, 42, 42);
     width: 80%;
     margin: 0px auto;
     border: white 1px solid;
     padding: 20px;
     text-align: center;
+    font-family: monospace;
+    font-size: 18px;
 }
 .titulo{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
