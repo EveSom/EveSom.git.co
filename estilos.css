@@ -54,5 +54,14 @@ header{
 .parrafo{
     margin-bottom: 50px;
 }
+footer{
+    background-color: rgb(171, 123, 206);
+    vertical-align: middle;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    color: #fff;
+    padding: 15px;
+}
 
 
