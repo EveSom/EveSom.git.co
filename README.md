@@ -8,5 +8,7 @@ Y en [QUIROPRÁCTICA FEK ](https://quiropracticofek.net/ "QUIROPRÁCTICA FEK ")
 
 **Creditos a Evelina Del Angel
 **tiene toda clase de cosas
+**Para todos los que quieran aprender
+
 ------------
 Este repositorio solo es de prueba ...
